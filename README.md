@@ -46,6 +46,7 @@ Arrays SubSkills |  Lvl   | Complexity: Time , Space | Solved Problems
  Greedy | 🍊 | ⏱ `⭕️(N LOG N)`, 💾 `⭕️(1)` | [1833. Maximum Ice Cream Bars](src/main/java/leetcode/Array/MaximumIceCreamBars/MaximumIceCreamBars.java)
  Greedy | 🍊 | ⏱ `⭕️(N)`, 💾 `⭕️(N)` | [2244. Minimum Rounds To Complete All Tasks](src/main/java/leetcode/Array/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks.java)
  Elements Sort | 🍎 | ⏱ `⭕️(log(N))`, 💾 `⭕️(1)` |[4. Median of Two Sorted Arrays](src/main/java/leetcode/Array/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.java)
+ Depth-First Search | 🍎 | ⏱ `⭕️(log(N))`, 💾 `⭕️(N)` |[2246. Longest Path With Different Adjacent Characters](src/main/java/leetcode/Array/LongestPathWithDifferentAdjacentCharacters/LongestPathWithDifferentAdjacentCharacters.java)
 
 ### **Backtracking**
 
