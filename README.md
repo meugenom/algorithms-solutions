@@ -1,4 +1,7 @@
 # 🧠 📚 ⏱ Algorithms-Solutions
+<center>
+	<img alt="" src="./assets/algo-panda-solutions.png"/>
+</center>
 
 - Solved Solutions from leetcode ant etc.
 
